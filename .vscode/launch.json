@@ -1,0 +1,21 @@
+{
+  "configurations": [
+    {
+      "type": "java",
+      "name": "CreateSeed",
+      "request": "launch",
+      "mainClass": "com.rocketseat.certification_nlw.seed.CreateSeed",
+      "projectName": "certification_nlw"
+    },
+    {
+      "type": "java",
+      "name": "Spring Boot-CertificationNlwApplication<certification_nlw>",
+      "request": "launch",
+      "cwd": "${workspaceFolder}",
+      "mainClass": "com.rocketseat.certification_nlw.CertificationNlwApplication",
+      "projectName": "certification_nlw",
+      "args": "",
+      "envFile": "${workspaceFolder}/.env"
+    }
+  ]
+}
